@@ -1,9 +1,5 @@
-# 我的 GITHUB 主页
+* [x] [我的开源NPM Packages](https://www.npmjs.com/settings/singcl/packages)
 
-[NPM](https://www.npmjs.com/settings/singcl/packages)
+* [] [我的个人网站[改版中]](https://imcoco.top)
 
-iambabyer@gmail.com
-
-[https://imcoco.top](https://imcoco.top)
-
-[https://singcl.github.io/](https://singcl.github.io/)
+* [ ] [我的个人博客](https://singcl.github.io/)
