@@ -3,7 +3,7 @@
 ```
 #### <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="20"/> Hi，我是singcl
 
-![images](./images/veer-394863660.jpg)
+![images](./images/summer2.png)
 
 * [x] [我的开源NPM Packages](https://www.npmjs.com/settings/singcl/packages)
 
