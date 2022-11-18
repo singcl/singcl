@@ -1,16 +1,22 @@
 ```diff
 + 人生若只如初见🍁。
 ```
-#### <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="20"/> Hi，我是singcl
+## Hi, I'm Singcl
 
-![images](./images/summer2.png)
+### About Me
 
-* [x] [我的开源NPM Packages](https://www.npmjs.com/settings/singcl/packages)
++ [我的开源NPM Packages](https://www.npmjs.com/settings/singcl/packages)
++ [我的个人网站](https://imcoco.top)
++ [我的个人博客](https://singcl.github.io/)
 
-* [x] [我的个人网站[改版中]](https://imcoco.top)
+### 🔰 Coding
 
-* [x] [我的个人博客](https://singcl.github.io/)
+![Singcl's GitHub stats](https://github-readme-stats.vercel.app/api?username=singcl&show_icons=true&hide_border=true&cache_seconds=1900)
 
-#### 🔰 统计卡牌
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singcl&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
 
-<img align="left" alt="Singcl's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=singcl&show_icons=true&hide_border=true&cache_seconds=1900&theme=vue-dark"/>
+### Recent Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singcl&theme=vue)
+  
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=singcl&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
