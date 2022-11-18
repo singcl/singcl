@@ -18,6 +18,6 @@
 
 ### Recent Activity
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singcl&hide_border=true&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singcl&hide_border=true)
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=singcl&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph&hide_border=true)
